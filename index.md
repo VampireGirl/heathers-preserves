@@ -1,27 +1,14 @@
-## Welcome to GitHub Pages
+### Heather's Preserves
 
-You can use the [editor on GitHub](https://github.com/VampireGirl/heathers-preserves/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+Heather's Preserves Of The Yarra Valley.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Home made jams & preserves, just like your mum and grandma used to make!
 
-### Markdown
+Taste is just the beginning...
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Our Jams and Preserves
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
+![Image](https://www.heatherspreserves.com/uploads/1/7/6/5/17651719/9133037_orig.jpg)
 
 [Link](url) and ![Image](src)
 ```
